@@ -5,6 +5,20 @@
 I'm Naim from Bangladesh,and I am content on Web Design and Development,I really enjoy learning  languages and frameworks like React.
 as well as work in React.I also enjoy Coding and Web design in general. You Can Check Out My Linkdin Account at
 
+
+
+
+### 🔗 Connect with me:
+
+<img align="left" alt="naimulislam" width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+<img align="left" alt="naimulislam | YouTube" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+<img align="left" alt="naimulislam | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img align="left" alt="naimulislam | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="naimulislam | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+
+<br />
+
+
 ## 💻Technologies that I know
 <span><img src="https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=#61DAFB" alt="React logo" title="React" height="30" /></span>
 <span><img src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E" alt="JavaScript logo" title="JavaScript" height="30" /></span>
