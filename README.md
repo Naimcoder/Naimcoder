@@ -15,6 +15,7 @@ as well as work in React.I also enjoy Coding and Web design in general. You Can 
 <span><img src="https://img.shields.io/badge/Express-090909?logo=express&logoColor=#FFFFFF" alt="Express.js logo" title="Express.js" height="30" /></span>
 <span><img src="https://img.shields.io/badge/Firebase-090909?logo=firebase&logoColor=#FFCA28" alt="Firebase logo" title="Firebase" height="30" /></span>
 <span><img src="https://img.shields.io/badge/Tailwind%20CSS-090909?logo=tailwind-css&logoColor=#38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="30" /></span>
+<span><img src="https://img.shields.io/badge/Bootstrap-090909?logo=bootstrap&logoColor=#7952B3" alt="Bootstrap logo" title="Bootstrap" height="30" /></span>
 
 
 
