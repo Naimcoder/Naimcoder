@@ -9,7 +9,6 @@ as well as work in React.I also enjoy Coding and Web design in general. You Can 
 
 
 ### 🔗 Connect with me:
-
 <img align="left" alt="naimulislam" width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 <img align="left" alt="naimulislam | YouTube" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 <img align="left" alt="naimulislam | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -19,15 +18,19 @@ as well as work in React.I also enjoy Coding and Web design in general. You Can 
 <br />
 
 
+<br />
+
 ## 💻Technologies that I know
 <span><img src="https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=#61DAFB" alt="React logo" title="React" height="30" /></span>
 <span><img src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E" alt="JavaScript logo" title="JavaScript" height="30" /></span>
 <span><img src="https://img.shields.io/badge/MongoDB-090909?logo=mongodb&logoColor=#47A248" alt="MongoDB logo" title="MongoDB" height="30" /></span>
 <span><img src="https://img.shields.io/badge/Node.js-090909?logo=node.js&logoColor=#00F200" alt="Node.js logo" title="Node.js" height="30" /></span>
 <span><img src="https://img.shields.io/badge/Express-090909?logo=express&logoColor=#FFFFFF" alt="Express.js logo" title="Express.js" height="30" /></span>
-<span><img src="https://img.shields.io/badge/Firebase-090909?logo=firebase&logoColor=#FFCA28" alt="Firebase logo" title="Firebase" height="30" /></span>
+<span><img src="https://img.shields.io/badge/Firebase-090909?logo=firebase&logoColor=#FFCA28" alt="Firebase logo" title="Firebase" height="30" /></span><br/>
 <span><img src="https://img.shields.io/badge/Tailwind%20CSS-090909?logo=tailwind-css&logoColor=#38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="30" /></span>
 <span><img src="https://img.shields.io/badge/Bootstrap-090909?logo=bootstrap&logoColor=#7952B3" alt="Bootstrap logo" title="Bootstrap" height="30" /></span>
+
+<br />
 
 
 
