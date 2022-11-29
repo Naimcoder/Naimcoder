@@ -19,7 +19,7 @@ as well as work in React.I also enjoy Coding and Web design in general. You Can 
 
 
 ## 📊 Current Stats
-[Naim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naim&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Naim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naim&show_icons=true&theme=tokyonight)](https://github.com/naimecoder/github-readme-stats)
 <!--     ![Naim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naim&) -->
   <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Naim&&theme=radical&sideNums=FFFFFF&sideLabels=9A9A9A&currStreakNum=FB8C00&dates=6E6E6E" />
