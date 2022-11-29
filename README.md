@@ -8,13 +8,13 @@ as well as work in React.I also enjoy Coding and Web design in general. You Can 
 [![Naim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naim&show_icons=true&theme=radical)](https://github.com/Naim/github-readme-stats)
 
 ## Technologies that I know
-<span><img src="https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=#61DAFB" alt="React logo" title="React" height="25" /></span>
-<span><img src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
-<span><img src="https://img.shields.io/badge/MongoDB-090909?logo=mongodb&logoColor=#47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
-<span><img src="https://img.shields.io/badge/Node.js-090909?logo=node.js&logoColor=#00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
-<span><img src="https://img.shields.io/badge/Express-090909?logo=express&logoColor=#FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
-<span><img src="https://img.shields.io/badge/Firebase-090909?logo=firebase&logoColor=#FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
-<span><img src="https://img.shields.io/badge/Tailwind%20CSS-090909?logo=tailwind-css&logoColor=#38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
+<span><img src="https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=#61DAFB" alt="React logo" title="React" height="30" /></span>
+<span><img src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E" alt="JavaScript logo" title="JavaScript" height="30" /></span>
+<span><img src="https://img.shields.io/badge/MongoDB-090909?logo=mongodb&logoColor=#47A248" alt="MongoDB logo" title="MongoDB" height="30" /></span>
+<span><img src="https://img.shields.io/badge/Node.js-090909?logo=node.js&logoColor=#00F200" alt="Node.js logo" title="Node.js" height="30" /></span>
+<span><img src="https://img.shields.io/badge/Express-090909?logo=express&logoColor=#FFFFFF" alt="Express.js logo" title="Express.js" height="30" /></span>
+<span><img src="https://img.shields.io/badge/Firebase-090909?logo=firebase&logoColor=#FFCA28" alt="Firebase logo" title="Firebase" height="30" /></span>
+<span><img src="https://img.shields.io/badge/Tailwind%20CSS-090909?logo=tailwind-css&logoColor=#38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="30" /></span>
 
 
 
