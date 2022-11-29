@@ -19,11 +19,15 @@ as well as work in React.I also enjoy Coding and Web design in general. You Can 
 
 
 ## 📊 Current Stats
-  <p>
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Naim&&theme=radical&sideNums=FFFFFF&sideLabels=9A9A9A&currStreakNum=FB8C00&dates=6E6E6E" />
-</p>
-
-[![Naim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naim&show_icons=true&theme=tokyonight)](https://github.com/naimecoder/github-readme-stats)
+<div align=center>
+<a href="#" title="Trungquandev">
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=rafinsripon&show_icons=true&theme=radical" />
+  </a>
+  <a href="#" title="rafins_ripon">
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafin&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&theme=radical" />
+  </a>
+  <a href="#" title="rafins_ripon"><img width="315" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mir-hussain&background=0D1117&sideNums=FFFFFF&sideLabels=9A9A9A&currStreakNum=FB8C00&dates=6E6E6E" /></a>
+</div>
 
 
 
