@@ -16,12 +16,20 @@ as well as work in React.I also enjoy Coding and Web design in general. You Can 
 <span><img src="https://img.shields.io/badge/Bootstrap-090909?logo=bootstrap&logoColor=#7952B3" alt="Bootstrap logo" title="Bootstrap" height="30" /></span>
 
 
-[![Naim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naim-Coder&show_icons=true&theme=radical)](https://github.com/Naim/github-readme-stats)
+
 
 ## 📊 Current Stats
-<p align="center">
+<div>
+  <span>
+     <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Naim&&theme=radical&sideNums=FFFFFF&sideLabels=9A9A9A&currStreakNum=FB8C00&dates=6E6E6E](https://github-readme-stats.vercel.app/api?username=Naim-Coder&show_icons=true&theme=radical" />
+      [![Naim's GitHub stats]()](https://github.com/Naim/github-readme-stats)
+   <Span>
+  <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Naim&&theme=radical&sideNums=FFFFFF&sideLabels=9A9A9A&currStreakNum=FB8C00&dates=6E6E6E" />
 </p>
+</div>
+
+
 
 
 
